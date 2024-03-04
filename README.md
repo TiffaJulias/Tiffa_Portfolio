@@ -18,6 +18,6 @@ Compilation of all projects I have done in the past two years of my studies in U
     <td><a href="https://drive.google.com/drive/folders/19fyvg79pu0sMRcyJzA-DTN6WsWm_xtV0?usp=sharing">Hack@10 Competition Hand-Sign Recognition Project</a></td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/drive/folders/1UTyinz_DEoJE52D_7YLkPxj3kU5voSEy?usp=sharing">Movie Booking Ticket Mini Project OOP</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1UTyinz_DEoJE52D_7YLkPxj3kU5voSEy?usp=sharing">Movie Booking Ticket System OOP</a></td>
   </tr>
 </table>
