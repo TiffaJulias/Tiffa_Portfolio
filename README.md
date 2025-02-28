@@ -1,5 +1,5 @@
 # Tiffa's Portfolio
-Compilation of all projects I have done in the past two years of my studies in UTM.
+Compilation of all projects I have done in the past three years of my studies in UTM.
 
 <table>
   <tr>
