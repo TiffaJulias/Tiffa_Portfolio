@@ -23,4 +23,7 @@ Compilation of all projects I have done in the past three years of my studies in
   <tr>
     <td><a href="https://drive.google.com/drive/folders/184qdlggFIwbnwb__6TG2A7vE0BpBuD9b?usp=sharing">Kolej Management C++ System</a></td>
   </tr>
+  <tr>
+    <td><a href="https://drive.google.com/drive/folders/1bY6p9gyetxFJTP79rcliAyaBOduWHTBR?usp=sharing">Leave Application Website</a></td>
+  </tr>
 </table>
